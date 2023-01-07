@@ -2,7 +2,8 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  bottom: 18px;
-  margin-top: 18px;
-  position: absolute;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  padding-right: 18px;
+  margin: 0px;
 }
