@@ -21,4 +21,4 @@
 
 **Github pages**
 
-* [Ссылка страницу сайта](https://danila4191.github.io/first-project/)
+* [Ссылка страницу сайта](https://danila4191.github.io/How-to-lern/)
